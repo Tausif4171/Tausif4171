@@ -3,9 +3,9 @@
 </div>
 <div align="center">
     <a href="https://github.com/Tausif4171">
-    <img align="center" src=https://github-readme-stats.vercel.app/api?username=Tausif4171&show_icons=true&hide=prs,issues,contribs&theme=buefy"/>
+    <img align="center" src=https://github-readme-stats.vercel.app/api?username=Tausif4171&show_icons=true&hide=prs,issues,contribs&theme=dark"/>
     </a>
-    <a href="https://github.com/Tausif4171"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tausif4171&layout=compact&theme=buefy" /></a>
+    <a href="https://github.com/Tausif4171"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tausif4171&layout=compact&theme=dark" /></a>
 </div>
 <br>
 <h2>I'm a Student, Competitive Programmer & Developer!</h2>
