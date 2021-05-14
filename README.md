@@ -17,7 +17,10 @@
 <li> ⚡ Fun fact: I love to do Competitive Programming, Design and Develop Front-End! </li>
 </ul>
 <br />
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/altafshaikh/count.svg" />
+</p>
 <div align="center">
     <h2>⚡ My Technical Stack ⚡</h2>
     <h4>Languages</h4>
