@@ -65,7 +65,7 @@
 <div align="center">
     <h2>🤝 Connect With Me 🤝</h2>
     <p>
-    <a href="https://www.linkedin.com/in/tausif4171/"><img src="https://img.icons8.com/color/55/000000/linkedin.png"/></a>
+    <a href="www.linkedin.com/in/tausif4171"><img src="https://img.icons8.com/color/55/000000/linkedin.png"/></a>
     <a href="https://www.instagram.com/i.m.tausifkhan/"><img src="https://img.icons8.com/cute-clipart/55/000000/instagram-new.png"/></a>
     <!-- <a href=""><img src="" width="55" height="55"></a> -->
     </p>
