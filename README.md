@@ -62,6 +62,10 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Tausif4171/count.svg" />
 </p>
+<p align="center">
+  <b>Thanks For Visiting My Profile ❤️</b>
+</p>
+
 <div align="center">
     <h2>🤝 Connect With Me 🤝</h2>
     <p>
