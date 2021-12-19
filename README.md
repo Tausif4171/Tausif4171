@@ -4,7 +4,7 @@
 <div align="center">
     <a href="https://github.com/Tausif4171">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tausif4171&show_icons=true&hide=prs,issues,contribs&theme=yeblu"/>
-        <img align="center" src=https://github-readme-stats.vercel.app/api?username=Neon-K9&show_icons=true&hide=issues&theme=buefy"/>
+        <img align="center" src=https://github-readme-stats.vercel.app/api?username=Tausif4171&show_icons=true&hide=issues&theme=buefy"/>
     </a>
     <a href="https://github.com/Tausif4171"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tausif4171&layout=compact&theme=yeblu " /></a>
 </div>
