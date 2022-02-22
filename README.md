@@ -13,7 +13,7 @@
 <li> 🔭 I’m currently working on a Music Website App!</li>
 <li> 🌱 I’m currently learning Cross-Platform Mobile Devlopment <a href="https://reactnative.dev/">React-Native</a></li>
 <li> 👯 I’m looking to collaborate with other Web Developers </li>
-<li> 🥅 2021 Goals: Contribute more to Open Source projects</li>
+<li> 🥅 2022 Goals: Contribute more to Open Source projects</li>
 <li> ⚡ Fun fact: I love to do Competitive Programming, Design and Develop Front-End! </li>
 </ul>
 <br />
