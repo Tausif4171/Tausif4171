@@ -71,7 +71,8 @@
     <div style="display: flex;
     align-items: center;
     justify-content: center;">
-    <a href="https://www.linkedin.com/in/tausif4171/"><img src="https://img.icons8.com/color/55/000000/linkedin.png"/></a>
+    <a href="https://www.linkedin.com/in/tausif4171/"><img style="position: relative !important;
+    top: 5px !important;" src="https://img.icons8.com/color/55/000000/linkedin.png"/></a>
     <a href="https://twitter.com/Tausif4171"><img style="position: relative !important;
     top: -6px !important;
     height: 43px;" src="https://www.computerhope.com/jargon/t/twitter.png"/></a>
