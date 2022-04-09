@@ -68,9 +68,11 @@
 
 <div align="center">
     <h2>🤝 Connect With Me 🤝</h2>
-    <div style="display:flex;justify-content:space-around;align-items:center">
+    <div style="display: flex;
+    align-items: center;
+    justify-content: center;">
     <a href="https://www.linkedin.com/in/tausif4171/"><img src="https://img.icons8.com/color/55/000000/linkedin.png"/></a>
-    <a href="https://twitter.com/Tausif4171"><img style=" width:35px; height:35px" src="https://www.computerhope.com/jargon/t/twitter.png"/></a>
+    <a href="https://twitter.com/Tausif4171"><img style="height:43px" src="https://www.computerhope.com/jargon/t/twitter.png"/></a>
     <!-- <a href=""><img src="" width="55" height="55"></a> -->
     </div>
 </div>
