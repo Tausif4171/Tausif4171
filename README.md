@@ -73,7 +73,7 @@
     justify-content: center;">
     <a href="https://www.linkedin.com/in/tausif4171/"><img src="https://img.icons8.com/color/55/000000/linkedin.png"/></a>
     <a href="https://twitter.com/Tausif4171"><img style="height: 43px;
-    top: -6px;
+    top: -16px;
     position: relative;" src="https://www.computerhope.com/jargon/t/twitter.png"/></a>
     <!-- <a href=""><img src="" width="55" height="55"></a> -->
     </div>
