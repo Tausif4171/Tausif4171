@@ -72,7 +72,7 @@
     align-items: center;
     justify-content: center;">
     <a href="https://www.linkedin.com/in/tausif4171/"><img style="position: relative !important;
-    top: 5px !important;" src="https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/256/Web-Linked-in-alt-Metro-icon.png"/></a>
+    top: 5px !important; height: 43px;" src="https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/256/Web-Linked-in-alt-Metro-icon.png"/></a>
     <a href="https://twitter.com/Tausif4171"><img style="position: relative !important;display: flex;
     align-items: center;
     justify-content: center;
