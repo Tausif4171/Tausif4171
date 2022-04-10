@@ -71,9 +71,13 @@
     <div style="display: flex;
     align-items: center;
     justify-content: center;">
-    <a href="https://www.linkedin.com/in/tausif4171/"><img style="position: relative !important;
+    <a href="https://www.linkedin.com/in/tausif4171/"><img style="position: relative !important;display: flex;
+    align-items: center;
+    justify-content: center;
     top: 5px !important;" src="https://img.icons8.com/color/55/000000/linkedin.png"/></a>
-    <a href="https://twitter.com/Tausif4171"><img style="position: relative !important;
+    <a href="https://twitter.com/Tausif4171"><img style="position: relative !important;display: flex;
+    align-items: center;
+    justify-content: center;
     top: -6px !important;
     height: 43px;" src="https://www.computerhope.com/jargon/t/twitter.png"/></a>
     <!-- <a href=""><img src="" width="55" height="55"></a> -->
