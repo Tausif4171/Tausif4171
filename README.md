@@ -67,7 +67,9 @@
 </p>
 
 <div align="center">
+    
     <h2>🤝 Connect With Me 🤝</h2>
+    
     <div style="display: flex;
     align-items: center;
     justify-content: center;">
@@ -78,6 +80,7 @@
     justify-content: center;
     top: -6px !important;
     height: 43px; width: 50px;" src="https://www.computerhope.com/jargon/t/twitter.png"/></a>
-    <!-- <a href=""><img src="" width="55" height="55"></a> -->
+    
     </div>
+    
 </div>
