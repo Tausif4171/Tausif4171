@@ -65,8 +65,7 @@
 <p align="center">
   <b>Thanks For Visiting My Profile ❤️</b>
 </p>
-<div align="center">
-    
+<div align="center">  
     <h2>🤝 Connect With Me 🤝</h2>
     
 <!--     <div style="display: flex;
