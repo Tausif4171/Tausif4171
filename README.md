@@ -81,12 +81,15 @@
     height: 43px; width: 50px;" src="https://www.computerhope.com/jargon/t/twitter.png"/></a>
     
     </div> -->
-     <div style="display: flex;
+    <h1>hello</h1>
+   <img style="position: relative !important;
+    top: 5px !important; height: 42px;" src="https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/256/Web-Linked-in-alt-Metro-icon.png"/>
+<!--      <div style="display: flex;
     align-items: center;
     justify-content: center;">
     <a href="https://www.linkedin.com/in/tausif4171/"><img style="position: relative !important;
     top: 5px !important; height: 42px;" src="https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/256/Web-Linked-in-alt-Metro-icon.png"/></a>&nbsp;
     
-    </div>
+    </div> -->
     
 </div>
