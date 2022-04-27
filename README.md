@@ -14,7 +14,7 @@
 <li> 🌱 I’m currently learning Single Page Application using <a href="https://reactjs.org/" target="_blank">ReactJS</a></li>
 <li> 👯 I’m looking to collaborate with other Web Developers </li>
 <li> 🥅 2022 Goals: Contribute more to Open Source projects</li>
-<li> ⚡ Fun fact: I love to do Competitive Programming, Design and Develop Front-End! </li>
+<li> ⚡ Fun fact: I love to do Open Source Contribution, Design and Develop Front-End! </li>
 </ul>
 <br />
 
