@@ -3,7 +3,7 @@
 <!--      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="display: block; opacity: 1; width:20px !important "> -->
 </div>
 <div align="center">
-    <a href="https://github.com/Tausif4171">
+    <a href="https://github.com/Tausif4171" style="margin-bottom:20px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tausif4171&show_icons=true&hide=issues&theme=yeblu"/>
     </a>
     <a href="https://github.com/Tausif4171"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tausif4171&layout=compact&theme=yeblu" /></a>
