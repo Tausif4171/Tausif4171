@@ -8,7 +8,6 @@
     </a>
     <br>
     <br>
-    <br>
     <a href="https://github.com/Tausif4171"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tausif4171&layout=compact&theme=yeblu" /></a>
 </div>
 <br>
