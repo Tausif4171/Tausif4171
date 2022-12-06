@@ -6,7 +6,7 @@
     <a href="https://github.com/Tausif4171" style="margin-bottom:20px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tausif4171&show_icons=true&hide=issues&theme=yeblu"/>
     </a>
-    <a href="https://github.com/Tausif4171"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tausif4171&layout=compact&theme=yeblu" /></a>
+    <a href="https://github.com/Tausif4171" style="margin-top: 18px"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tausif4171&layout=compact&theme=yeblu" /></a>
 </div>
 <br>
 <h2>I'm a Web Developer, Programmer, Software Developer and a Computer Engineering Student!</h2>
