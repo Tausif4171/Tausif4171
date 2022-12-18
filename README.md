@@ -21,7 +21,6 @@
 <li> ⚡ Fun fact: I love to do Open Source Contribution, Design and Develop Front-End! </li>
 </ul>
 <br />
-
 <div align="center">
     <h2>⚡ My Technical Stack ⚡</h2>
     <h4>Languages</h4>
