@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Hey there 👋, I'm Tausif Khan!</h2>
-<!--      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="display: block; opacity: 1; width:20px !important "> -->
+     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="display: block; opacity: 1; width:20px !important ">
 </div>
 <div align="center">
     <a href="https://github.com/Tausif4171">
