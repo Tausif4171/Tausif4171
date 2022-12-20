@@ -10,7 +10,8 @@
     <a href="https://github.com/Tausif4171"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tausif4171&layout=compact&theme=yeblu" /></a>
 </div>
 <br>
-<h2>I'm a Web Developer, Programmer, Software Developer and a Computer Engineering Student!</h2>
+<!-- <h2>I'm a Web Developer, Programmer, Software Developer and a Computer Engineering Student!</h2> -->
+<h2>I am a frontend web developer as well as an UI / UX enthusiast.</h2>
 <ul>
 <li> 👨‍🎓 I am Tausif Khan, currently working as a Frontend Engineer at SignalX.ai.</li>
 <li> 🔭 I’m currently working on a Notes App!</li>
