@@ -79,6 +79,6 @@
     align-items: center;
     justify-content: center;
     top: -6px !important;
-    height: 43px; width: 50px;" src="https://www.computerhope.com/jargon/t/twitter.png"/></a>
+    height: 43px; width: 50px;" src="https://www.computerhope.com/jargon/t/twitter.png" /></a>
     </div>
 </div>
