@@ -2,9 +2,9 @@
     <h2>Hey there 👋, I'm Tausif Khan!</h2>
 </div>
 <div align="center">
-    <a href="https://github.com/Tausif4171">
+<!--     <a href="https://github.com/Tausif4171">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tausif4171&show_icons=true&hide=issues&theme=yeblu" />
-    </a>
+    </a> -->
     <br>
     <br>
     <a href="https://github.com/Tausif4171"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tausif4171&layout=compact&theme=yeblu" /></a>
