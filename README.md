@@ -3,7 +3,7 @@
 </div>
 <div align="center">
     <a href="https://github.com/Tausif4171">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tausif4171&show_icons=true&hide=issues&theme=yeblu"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tausif4171&show_icons=true&hide=issues&theme=yeblu" />
     </a>
     <br>
     <br>
