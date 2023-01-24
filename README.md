@@ -17,7 +17,7 @@
 <li> 🔭 I’m currently working on a Quiz App!</li>
 <li> 🌱 I’m currently learning Single Page Application using <a href="https://reactjs.org/" target="_blank">React.js</a></li>
 <li> 👯 I’m looking to collaborate with other Web Developers </li>
-<li> 🥅 2023 Goals: Contribute more to Open Source projects</li>
+<li> 🥅 2023 Goals: Contribute more to Open Source Projects</li>
 <li> ⚡ Fun fact: I love to do Open Source Contribution, Design and Develop Front-End </li>
 </ul>
 <br />
