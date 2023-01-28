@@ -14,6 +14,7 @@
 <h2>I am a frontend web developer as well as an UI / UX enthusiast.</h2>
 <ul>
 <li> 👨‍🎓 I am Tausif Khan, currently working as a Frontend Engineer at SignalX.ai</li>
+<li> 🌎 You can always visit me in Mumbai, India</li>
 <li> 🔭 I’m currently working on a Quiz App!</li>
 <li> 🌱 I’m currently learning Single Page Application using <a href="https://reactjs.org/" target="_blank">React.js</a></li>
 <li> 👯 I’m looking to collaborate with other Web Developers </li>
