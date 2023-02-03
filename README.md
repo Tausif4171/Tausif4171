@@ -20,7 +20,7 @@
 <li> 👯 I’m looking to collaborate with other Web Developers </li>
 <li> 🥅 2023 Goals: Contribute more to Open Source Projects</li>
 <li> ⚡ Fun fact: I love to do Open Source Contribution, Design and Develop Front-End </li>
-<li> 📫 You can reach out to me at tausifkhan4173@gmail.com</li>
+<li> 📫 You can reach out to me at <a href="mailto:tausifkhan4173@gmail.com">tausifkhan4173@gmail.com</a></li>
 </ul>
 <br />
 <div align="center">
