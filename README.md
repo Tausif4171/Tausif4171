@@ -10,7 +10,7 @@
     <br>
     
 <!--     <a href="https://github.com/Tausif4171"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tausif4171&layout=compact&theme=yeblu" /></a> -->
-     <a href="https://github.com/Tausif4171"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tausif4171&layout=compact&theme=yeblu&langs_count=20" /></a>
+     <a href="https://github.com/Tausif4171"><img align="center" src="github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AfaanBilal&theme=radical&layout=compact&langs_count=20" /></a>
 </div>
 <br>
 
