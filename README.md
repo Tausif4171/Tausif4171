@@ -2,7 +2,6 @@
     <h2>Hey there 👋, I'm Tausif Khan!</h2>
 </div>
 
-
 <div align="center">
     <a href="https://github.com/Tausif4171">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tausif4171&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true" />
