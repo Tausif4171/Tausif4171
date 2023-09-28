@@ -12,7 +12,7 @@
 <br>
 
 
-<h2>I am a full-stack web developer as well as a UI / UX enthusiast.</h2>
+<h2>I am a full-stack web developer as well as an UI / UX enthusiast.</h2>
 <ul>
 <li> 👨‍💻 I am Tausif Khan, currently working as a Frontend Engineer at SignalX.ai!</li>
 <li> 🌎 You can always visit me in Mumbai, India</li>
