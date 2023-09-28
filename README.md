@@ -14,7 +14,7 @@
 
 <h2>I am a full-stack web developer as well as an UI / UX enthusiast.</h2>
 <ul>
-<li> 👨‍💻 I am Tausif Khan, currently working as a Frontend Engineer at SignalX.ai!</li>
+<li> 👨‍💻 I am Tausif Khan, currently working as a Software Engineer at SignalX.ai!</li>
 <li> 🌎 You can always visit me in Mumbai, India</li>
 <li> 🔭 I’m currently working on a Chat App!</li>
 <!-- <li> 🌱 I’m currently learning Single Page Application called <a href="https://reactjs.org/" target="_blank">React.js</a> and <a                     href='https://www.typescriptlang.org/docs/handbook/react.html' target="_blank">TypeScript</a></li> -->
