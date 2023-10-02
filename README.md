@@ -16,7 +16,6 @@
 <li> 🌎 You can always visit me in Mumbai, India</li>
 <li> 🔭 I’m currently working on a Chat App!</li>
 <!-- <li> 🌱 I’m currently learning Single Page Application called <a href="https://reactjs.org/" target="_blank">React.js</a> and <a                     href='https://www.typescriptlang.org/docs/handbook/react.html' target="_blank">TypeScript</a></li> -->
-
     
 <li> 🌱 I’m currently learning Socket.IO, Tailwind CSS, NodeJS, and MongoDB!</li>
 <li> 👯 I’m looking to collaborate with other Web Developers </li>
