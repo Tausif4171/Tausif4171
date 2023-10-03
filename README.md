@@ -24,7 +24,7 @@
 <li> 📫 You can reach out to me at <a href="mailto:tausifkhan4173@gmail.com">tausifkhan4173@gmail.com</a> </li>
 </ul>
 <br />
-<div align="center">
+<!-- <div align="center">
     <h2>⚡ My Technical Stack ⚡</h2>
     <h4>Languages</h4>
     <p>
@@ -62,7 +62,7 @@
     </p>
     </p>
 </div>
-<br> 
+<br>  -->
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Tausif4171/count.svg" />
