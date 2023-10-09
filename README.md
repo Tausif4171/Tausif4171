@@ -23,6 +23,7 @@
 <li> ⚡ Fun fact: I love to do Open Source Contributions, Design, and Develop Front-End! </li>
 <li> 📫 You can reach out to me at <a href="mailto:tausifkhan4173@gmail.com">tausifkhan4173@gmail.com</a> </li>
 </ul>
+
 <br />
 <!-- <div align="center">
     <h2>⚡ My Technical Stack ⚡</h2>
