@@ -1,5 +1,5 @@
 
-<p align="center">Update Github Profile</p>
+<!-- <p align="center">Update Github Profile</p> -->
 <div align="center">
     <h2>Hey there 👋, I'm Tausif Khan!</h2>
 </div>
