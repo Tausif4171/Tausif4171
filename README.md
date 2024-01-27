@@ -12,7 +12,7 @@
     <a href="https://github.com/Tausif4171"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tausif4171&layout=compact&theme=yeblu&langs_count=20" /></a>
 </div>
 <br>
-<h2>I am a full-stack web developer as well as an UI / UX enthusiast.</h2>
+<h2>I'm a full-stack web developer with a passion for DevOps.</h2>
 <ul>
 <li> 👨‍💻 I am Tausif Khan, currently working as a Software Engineer at SignalX.ai!</li>
 <li> 🌎 You can always visit me in Mumbai, India</li>
