@@ -6,11 +6,11 @@
 </div>
 <div align="center">
     <a href="https://github.com/Tausif4171">
-   <img align="center" src="![Tausif4171's Stats](https://github-readme-stats.vercel.app/api?username=Tausif4171&theme=algolia&show_icons=true&hide_border=true&count_private=true)" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tausif4171&theme=algolia&show_icons=true&hide_border=true&count_private=true" />
     </a>
     <br>
     <br>
-   <img align="center" src="![Tausif4171's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tausif4171&theme=algolia&hide_border=true)" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tausif4171&theme=algolia&hide_border=true" />
       <br>
     <br>
     <a href="https://github.com/Tausif4171"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tausif4171&layout=compact&theme=yeblu&langs_count=20" /></a>
