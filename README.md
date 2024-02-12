@@ -13,7 +13,7 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tausif4171&theme=algolia&hide_border=true" />
       <br>
     <br>
-    <a href="https://github.com/Tausif4171"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tausif4171&layout=compact&theme=yeblu&langs_count=20" /></a>
+    <a href="https://github.com/Tausif4171"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tausif4171&theme=algolia&show_icons=true&hide_border=true&layout=compact" /></a>
 </div>
 <br>
 <h2>I'm a full-stack web developer with a passion for DevOps.</h2>
