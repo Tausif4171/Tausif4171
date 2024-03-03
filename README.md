@@ -29,7 +29,6 @@
 <li> 📫 You can reach out to me at <a href="mailto:tausifkhan4173@gmail.com">tausifkhan4173@gmail.com</a> </li>
 </ul>
 
-<br />
 
 ## 🔧 Technologies & Tools
 <p>
