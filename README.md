@@ -6,7 +6,7 @@
     <a href="https://github.com/Tausif4171">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tausif4171&theme=algolia&show_icons=true&hide_border=true&count_private=true" />
     </a>
-    <a href="https://github.com/Tausif4171">
+    <a href="https://github.com/Tausif4171/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tausif4171&repo=github-readme-stats&theme=buefy" />
 </a>
     <br>
