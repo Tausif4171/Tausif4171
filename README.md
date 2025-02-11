@@ -103,6 +103,15 @@
     </p>
 </div>
 <br>  -->
+
+## Anime 🙈
+
+I love to watch anime.
+
+My favorite one is Naruto. 🦊
+
+https://media-hosting.imagekit.io//8921f32cefbc4740/337096116-c1281d61-721c-4a3b-8ca8-840e3402bf88.png?Expires=1833907252&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=du98S7IiGqRTifvK~UsfCMkP5FEm5qTqb4PaniBQdKeZnhjOUyXOh869cR-8G6W5h~-7uDFCMkzJicDvS8TkBK2GJ~8xOWhBhaH2KF9EjyXiV5DZaBvZQDlTa0-jS0hK4E8R0C0qw~~qjJYS8uMNO9tBGRIBkzkLpphsKzWAIfaFgWC3Y~ToLhmiLS~~TKGdnci1LKPHpmFa61Lips54J8QcsMTTKm0NDBOH08FRG37siSBKQry11MD3JN6pGGCOeE-UcC~FRMfS1THw~rVJapgEOKrYnKc9by4ygBoTpCp5E9o-z2YTlwsZ~2IJyc61YPLCl645TWWcr4usZorqqw__
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Tausif4171/count.svg" />
