@@ -63,7 +63,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<br />
 <!-- <div align="center">
     <h2>⚡ My Technical Stack ⚡</h2>
     <h4>Languages</h4>
@@ -103,7 +102,6 @@
     </p>
 </div>
 <br>  -->
-
 ## Anime 🙈
 
 I love to watch anime.
