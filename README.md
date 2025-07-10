@@ -123,8 +123,6 @@ My favorite one is Naruto. 🦊
     <img src="https://komarev.com/ghpvc/?username=Tausif4171&color=blueviolet&style=for-the-badge&label=VISITORS" alt="Profile Views" />
   </div>
   
-  <br>
-  
   <p>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer Wave" />
   </p>
