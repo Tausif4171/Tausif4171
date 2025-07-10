@@ -108,7 +108,7 @@ I love to watch anime.
 
 My favorite one is Naruto. 🦊
 
-<img src="https://i.imghippo.com/files/rPZD7092SBQ.png" alt="" border="0">
+<img width="600" height="322" alt="naruto" src="https://github.com/user-attachments/assets/f43223b6-bd1d-441d-88dd-d6b097543bf8" />
 
 <p align="center"> 
   Visitor count<br>
