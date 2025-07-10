@@ -112,7 +112,8 @@ My favorite one is Naruto. 🦊
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Tausif4171/count.svg" />
+<!--   <img src="https://profile-counter.glitch.me/Tausif4171/count.svg" /> -->
+  <img src="https://komarev.com/ghpvc/?username=Tausif4171&color=blue" />
 </p>
 <p align="center">
   <b>Thanks For Visiting My Profile ❤️</b>
