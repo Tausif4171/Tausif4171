@@ -115,6 +115,27 @@ My favorite one is Naruto. 🦊
 <!--   <img src="https://profile-counter.glitch.me/Tausif4171/count.svg" /> -->
   <img src="https://komarev.com/ghpvc/?username=Tausif4171&color=blue" />
 </p>
+
+<div align="center">
+  <div>
+    <h4>👁️ Profile Views</h4>
+    <img src="https://komarev.com/ghpvc/?username=Tausif4171&color=blueviolet&style=for-the-badge&label=VISITORS" alt="Profile Views" />
+  </div>
+  
+  <br>
+  
+  <div>
+    <img src="https://img.shields.io/github/followers/Tausif4171?style=for-the-badge&color=blue&labelColor=black&logo=github&label=FOLLOWERS" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/Tausif4171?style=for-the-badge&color=yellow&labelColor=black&logo=github&label=STARS" alt="GitHub Stars" />
+  </div>
+  
+  <br>
+  
+  <p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer Wave" />
+  </p>
+</div>
+
 <p align="center">
   <b>Thanks For Visiting My Profile ❤️</b>
 </p>
